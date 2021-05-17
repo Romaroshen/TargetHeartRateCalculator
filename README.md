@@ -1,1 +1,2 @@
 # TargetHeartRateCalculator
+# Author:Abdullaev Romiz
